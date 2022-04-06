@@ -1,6 +1,7 @@
 # XjtuNewsCrawler
 
-运行
+run the crawler:
+
 ```python
   scrapy crawl XjtuNewsSpider
 ```
